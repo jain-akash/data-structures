@@ -44,7 +44,7 @@ local.properties
 *.launch
 
 # sbteclipse plugin
-.target/
+target/
 
 # TeXlipse plugin
 .texlipse
